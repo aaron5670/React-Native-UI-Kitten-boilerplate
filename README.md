@@ -3,7 +3,7 @@
 # React Native UI Kitten boilerplate with React Navigation 6
 Simple boilerplate to learn React Native and React Navigation 6.  
 
-**Link:** https://expo.dev/accounts/aaron5670/projects/rn-boilerplate/
+**Link:** https://expo.dev/@aaron5670/rn-boilerplate
 
 ## Features
 - [x] React Native 63.4
