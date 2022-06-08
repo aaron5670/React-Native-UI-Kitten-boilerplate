@@ -6,8 +6,8 @@ Simple boilerplate to learn React Native and React Navigation 6.
 **Link:** https://expo.dev/@aaron5670/rn-boilerplate
 
 ## Features
-- [x] React Native 63.4
-- [x] Expo Expo 42
+- [x] React Native 68
+- [x] Expo Expo 45
 - [x] React Navigation 6
 - [x] UI Kitten 5.1
 
