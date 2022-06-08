@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@eva-design/eva": "^2.1.1",
-    "@react-native-async-storage/async-storage": "^1.17.6",
+    "@react-native-async-storage/async-storage": "~1.17.3",
     "@react-native-community/masked-view": "0.1.11",
     "@react-navigation/bottom-tabs": "^6.3.1",
     "@react-navigation/drawer": "6.4.1",
@@ -25,7 +25,7 @@
     "react-native": "0.68.2",
     "react-native-awesome-alerts": "^2.0.0",
     "react-native-gesture-handler": "~2.2.1",
-    "react-native-reanimated": "2.8.0",
+    "react-native-reanimated": "~2.8.0",
     "react-native-safe-area-context": "4.2.4",
     "react-native-screens": "~3.11.1",
     "react-native-svg": "12.3.0",
@@ -33,7 +33,7 @@
     "zustand": "^3.5.10"
   },
   "devDependencies": {
-    "@babel/core": "~7.9.0"
+    "@babel/core": "^7.12.9"
   },
   "private": true,
   "volta": {
